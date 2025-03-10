@@ -4,11 +4,14 @@
 
 **⚠ THIS IS A MOCK, THE APP IS CURRENTLY IN DEVELOPMENT**  
 
+**Fully Linked is an AI-powered LinkedIn automation tool that allows users to draft, schedule, and share posts seamlessly. Our app enhances professional engagement while ensuring compliance with LinkedIn API policies.**
+
 ## 1. Introduction
 
 Welcome to **Fully Linked**! This Privacy Policy explains how we collect, use, and protect your information when you use our AI-powered LinkedIn automation and engagement tool. By using our services, you agree to the terms outlined in this policy.  
 
 Fully Linked is committed to ensuring that your privacy is protected. Any data we collect will only be used in accordance with this policy and in compliance with LinkedIn’s API policies.  
+
 
 ---
 
